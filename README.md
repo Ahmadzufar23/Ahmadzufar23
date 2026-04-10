@@ -1,12 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="![download (5)](https://github.com/user-attachments/assets/ee8098dd-90d3-46f2-81bd-c70814096f27)
-"  />
-</div>
-
-###
-
 <h1 align="center">Hey! I'm Zufar✌️</h1>
 
 ###
@@ -68,9 +59,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ahmadzufar23&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Ahmadzufar23/Ahmadzufar23/output/snake.svg" alt="Snake animation" />
 
 ###
