@@ -1,5 +1,5 @@
 
-![download (5)](https://github.com/user-attachments/assets/23183f7c-98da-4fbc-959a-4de2200db616)
+![9c8c595b7c0bf68997b6971b48ed1040](https://github.com/user-attachments/assets/be8462a3-6e19-45d5-b7de-815aa47d1a00)
 <h1 align="center">Hey! I'm Zufar✌️</h1>
 
 ###
