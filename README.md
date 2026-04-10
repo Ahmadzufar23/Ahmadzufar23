@@ -1,7 +1,11 @@
+<br clear="both">
 
 <div align="center">
-  <img height="200" src="![download (5)](https://github.com/user-attachments/assets/3a6d29bf-63d9-4d24-8b11-a5ce40055341)"  />
+  <img height="200" src="![download (5)](https://github.com/user-attachments/assets/55154d99-77c0-4ef3-8221-f09861cdf6c2)
+"  />
 </div>
+
+###
 
 <h1 align="center">Hey! I'm Zufar✌️</h1>
 
@@ -69,4 +73,4 @@
 
 <img src="https://raw.githubusercontent.com/Ahmadzufar23/Ahmadzufar23/output/snake.svg" alt="Snake animation" />
 
-###![Uploading download (5).jpg…]()
+###![download (5)](https://github.com/user-attachments/assets/e4b7ed84-206d-4590-97b8-f25e27c5017b)
