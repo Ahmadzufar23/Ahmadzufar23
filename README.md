@@ -1,5 +1,8 @@
 
-![9c8c595b7c0bf68997b6971b48ed1040](https://github.com/user-attachments/assets/be8462a3-6e19-45d5-b7de-815aa47d1a00)
+<div align="center">
+  <img height="200" src="![download (5)](https://github.com/user-attachments/assets/3a6d29bf-63d9-4d24-8b11-a5ce40055341)"  />
+</div>
+
 <h1 align="center">Hey! I'm Zufar✌️</h1>
 
 ###
