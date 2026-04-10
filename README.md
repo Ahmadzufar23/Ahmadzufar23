@@ -1,9 +1,5 @@
-<div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1uu5Csd8pasQHQwVnR_B4zz29_sN8Wfen/view?usp=sharing"  />
-</div>
 
-###
-
+![download (5)](https://github.com/user-attachments/assets/23183f7c-98da-4fbc-959a-4de2200db616)
 <h1 align="center">Hey! I'm Zufar✌️</h1>
 
 ###
@@ -13,14 +9,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
@@ -75,3 +63,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Ahmadzufar23/Ahmadzufar23/output/snake.svg" alt="Snake animation" />
+
+###![Uploading download (5).jpg…]()
