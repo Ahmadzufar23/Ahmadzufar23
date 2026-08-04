@@ -8,15 +8,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 🎓 Undergraduate **Information Systems** student with a big interest in software development
-- 💡 Passionate about building full-stack web & mobile applications
-- 🌱 Currently exploring backend architecture, databases, and DevOps tooling
-- ⚡ Fun fact: I enjoy turning ideas into working products end-to-end
-
----
-
 ### 📊 GitHub Stats & Language Usage
 
 <div align="center">
