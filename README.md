@@ -1,93 +1,98 @@
 <div align="center">
 
-# Hi 👋, I'm Zufar
+<img src="./assets/banner.svg" alt="Ngopi dulu, ngoding kemudian" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Undergraduate+Information+Systems+Student;Software+Developer+in+the+Making;Full-Stack+%7C+Mobile+%7C+Backend+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
+# Hey! I'm Zufar ☕
 
-</div>
+**Undergraduate Information Systems Student — Indonesia**
+**Ngulik software sambil nyeruput kopi**
 
----
+<a href="https://instagram.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/Instagram-6F4E37?style=for-the-badge&logo=instagram&logoColor=F5E6D3" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/USERNAME_KAMU"><img src="https://img.shields.io/badge/LinkedIn-4A2E1C?style=for-the-badge&logo=linkedin&logoColor=F5E6D3" alt="LinkedIn" /></a>
+<a href="mailto:ahmadzufarginting07@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A5E38?style=for-the-badge&logo=gmail&logoColor=F5E6D3" alt="Gmail" /></a>
+<a href="https://portfolio-zufar-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-C89F7B?style=for-the-badge&logo=vercel&logoColor=2C1810" alt="Portfolio" /></a>
 
-### 🚀 About Me
+<br>
 
-- 🎓 Undergraduate **Information Systems** student with a big interest in software development
-- 💡 Passionate about building full-stack web & mobile applications
-- 🌱 Currently exploring backend architecture, databases, and DevOps tooling
-- ⚡ Fun fact: I enjoy turning ideas into working products end-to-end
-
----
-
-### 📊 GitHub Stats & Language Usage
-
-<div align="center">
-
-<img height="165" src="./profile/stats.svg" alt="Zufar's GitHub Stats" />
-<img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadzufar23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=D4A574&center=true&vCenter=true&width=620&lines=Ngopi+dulu%2C+ngoding+kemudian;Undergraduate+Information+Systems+Student;Full-Stack+%7C+Mobile+%7C+Backend+Enthusiast;Commit+sambil+nunggu+kopi+dingin" alt="Typing SVG" />
 
 </div>
 
-> 📈 The **Top Languages** card above shows the percentage breakdown of every programming language used across my public repositories — regenerated automatically every day by a GitHub Actions workflow, so it never depends on a third-party server being up.
-
----
-
-### 🐍 Contribution Snake
+<br>
 
 <div align="center">
+
+## ☕ Tech Stack
+
+*Racikan yang biasa dipakai nongkrong sampai subuh*
+
+</div>
+
+<div align="left">
+
+**Front End**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs&theme=dark&perline=8" alt="Front End" />
+
+</div>
+
+<div align="right">
+
+**Back End**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,go,python,c,kotlin&theme=dark&perline=8" alt="Back End" />
+
+</div>
+
+<div align="left">
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,supabase,prisma&theme=dark&perline=8" alt="Database" />
+
+</div>
+
+<div align="right">
+
+**Dev Tools & Infra**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,postman,vscode&theme=dark&perline=8" alt="Dev Tools and Infra" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 📊 Takaran Bahasa
+
+*Berapa banyak tiap bahasa nongkrong di repo aku*
+
+<img height="170" src="./profile/top-langs.svg" alt="Top Languages" />
+<img height="170" src="./profile/stats.svg" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadzufar23&hide_border=true&background=140B06&stroke=6F4E37&ring=D4A574&fire=D4A574&currStreakNum=F5E6D3&sideNums=F5E6D3&currStreakLabel=D4A574&sideLabels=C89F7B&dates=8A6B4F" alt="Streak" />
+
+</div>
+
+> ☕ Kartu **Takaran Bahasa** di atas dibuat ulang otomatis tiap hari lewat GitHub Actions milikku sendiri — jadi persentase bahasanya selalu segar dan nggak pernah mati gara-gara server orang lain lagi tutup.
+
+<br>
+
+<div align="center">
+
+## 🐍 Ronde Kopi Terakhir
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadzufar23/ahmadzufar23/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadzufar23/ahmadzufar23/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ahmadzufar23/ahmadzufar23/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ahmadzufar23/ahmadzufar23/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
+<br><br>
 
----
+<img src="https://komarev.com/ghpvc/?username=ahmadzufar23&color=6F4E37&style=flat-square&label=Yang+Mampir" alt="Profile Views" />
 
-### 💻 Tech Stack
-
-<div align="center">
-
-**Front End**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs&perline=8" alt="Front End Stack" />
-
-**Back End**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,bun,go,python,c,kotlin&perline=8" alt="Back End Stack" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,supabase,prisma&perline=8" alt="Database Stack" />
-
-**Dev Tools & Infra**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,figma,postman&perline=8" alt="Dev Tools & Infra" />
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmadzufar23&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-### 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/USERNAME_KAMU)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_KAMU)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:EMAIL_KAMU@gmail.com)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ahmadzufar23&color=61dafb&style=flat-square&label=Profile+Views)
+**Gelas masih penuh. Mari lanjut. ☕**
 
 </div>
