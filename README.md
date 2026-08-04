@@ -8,18 +8,27 @@
 
 ---
 
+### 🚀 About Me
+
+- 🎓 Undergraduate **Information Systems** student with a big interest in software development
+- 💡 Passionate about building full-stack web & mobile applications
+- 🌱 Currently exploring backend architecture, databases, and DevOps tooling
+- ⚡ Fun fact: I enjoy turning ideas into working products end-to-end
+
+---
+
 ### 📊 GitHub Stats & Language Usage
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadzufar23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Zufar's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzufar23&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+<img height="165" src="./profile/stats.svg" alt="Zufar's GitHub Stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadzufar23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-> 📈 The **Top Languages** card above shows the real-time percentage breakdown of every programming language used across my public repositories — refreshed automatically every time this page is viewed.
+> 📈 The **Top Languages** card above shows the percentage breakdown of every programming language used across my public repositories — regenerated automatically every day by a GitHub Actions workflow, so it never depends on a third-party server being up.
 
 ---
 
