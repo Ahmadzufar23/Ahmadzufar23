@@ -51,15 +51,6 @@
 
 <div align="center">
 
-## Language Usage
-
-<img height="170" src="./profile/top-langs.svg" alt="Top Languages" />
-<img height="170" src="./profile/stats.svg" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadzufar23&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadzufar23/ahmadzufar23/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadzufar23/ahmadzufar23/output/github-contribution-grid-snake.svg">
